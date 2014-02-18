@@ -19,16 +19,10 @@ You need to install Node.js, Bower, PhantomJS, and then the development tools. N
 
 * [Install node.js](http://nodejs.org/download/) (requires node.js version >= 0.8.4)
 
-* Install Grunt-CLI and Karma as global npm modules:
+* Install Grunt-CLI, Karma, and Bower as global npm modules:
 
     ```
-    npm install -g grunt-cli karma
-    ```
-
-* [Install Bower](http://bower.io/):
-
-    ```
-    npm install -g bower
+    npm install -g grunt-cli karma bower
     ```
 
 * [Install PhantomJS](http://phantomjs.org/download.html)
