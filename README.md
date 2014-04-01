@@ -42,7 +42,7 @@ The client application is a straight HTML/Javascript application but our develop
     cd ..
     ```
 
-    (This will install the dependencies declared in the client/package.json and client/bower.json files)
+    (This will install the dependencies declared in the client/package.json and client/bower.json files. If the git protocol is blocked, and you don't have access to fix that, you can configure Git to rewrite to https using the following command: git config --global url."https://".insteadOf git://)
 
 ### Build the client app
 
