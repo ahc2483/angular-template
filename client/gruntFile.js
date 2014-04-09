@@ -54,6 +54,7 @@ module.exports = function (grunt) {
         files: [{ dest: '<%= distdir %>/assets', src : '**', expand: true, cwd: 'src/assets/' }, 
           {dest:'<%= distdir %>/templates', src: '**/*.tpl.html', expand:true, cwd:'src/app'},
           {dest:'<%= distdir %>/templates', src: '**/*.tpl.html', expand:true, cwd:'src/common'},
+          {dest:'<%= distdir %>/fonts', src:'**', expand:true, cwd:'src/fonts/'},
           {dest:'<%= distdir %>/css', src:'angular-ui.css', expand:true, flattent:true, cwd:'bower_components/angular-ui/build'},
           {dest:'<%= distdir %>/css', src:'bootstrap.css', expand:true, flattent:true, cwd:'bower_components/bootstrap/dist/css/'},
           {dest:'<%= distdir %>/css', src:'**', expand:true, flattent:true, cwd:'src/css'}]
