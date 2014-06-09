@@ -22,10 +22,8 @@ You need to install Node.js, Bower, PhantomJS, and then the development tools. N
 * Install Grunt-CLI, Karma, and Bower as global npm modules:
 
     ```
-    npm install -g grunt-cli karma bower
+    npm install -g grunt-cli karma bower phantomjs
     ```
-
-* [Install PhantomJS](http://phantomjs.org/download.html)
 
 
 ### Client App
