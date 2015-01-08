@@ -1,5 +1,7 @@
 # Angular Template Application (based on the [angular-app](https://github.com/angular-app/angular-app) GitHub project)
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ahc2483/angular-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ***
 
 ### Build
