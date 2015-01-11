@@ -14,7 +14,7 @@ describe('Default Controller', function(){
 		});
 	}));
 
-	it('should take scope as a dependency', function(){
+	it('should set some defaults', function(){
 
 	});
 })
