@@ -16,12 +16,12 @@
   "dependencies": {
     "jquery": "~2.0.3",
     "underscore": "~1.5.2",
-    "angular": "~1.2.10",
-    "angular-resource": "~1.2.10",
-    "angular-cookies": "~1.2.10",
-    "angular-route": "~1.2.10",
-    "angular-mocks": "~1.2.10",
-    "angular-ui": "0.4.0",
-    "bootstrap": "~3.0.3"
+    "angular": "~1.4.8",
+    "angular-resource": "~1.4.8",
+    "angular-cookies": "~1.4.8",
+    "angular-route": "~1.4.8",
+    "angular-mocks": "~1.4.8",
+    "angular-ui-bootstrap": "~0.13.1",
+    "bootstrap": "~3.3.6"
   }
 }
